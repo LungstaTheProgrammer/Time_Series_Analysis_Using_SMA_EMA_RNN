@@ -21,3 +21,4 @@ the graphs look. But I got better in future projects, which are also
 in my github where I employed the KERAS API. I then concluded that this
 method of using Tensorflow is outdated.
 
+Email: lungilesamukelomadi@gmail.com
